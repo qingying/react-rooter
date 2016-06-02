@@ -1,0 +1,28 @@
+{
+  "name": "rooter",
+  "version": "1.0.0",
+  "description": "react-rooter demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qingying/react-rooter.git"
+  },
+  "keywords": [
+    "demo",
+    "react",
+    "rooter"
+  ],
+  "author": "qingying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qingying/react-rooter/issues"
+  },
+  "homepage": "https://github.com/qingying/react-rooter#readme",
+  "dependencies": {
+    "react": "~15.1.0",
+    "react-router": "~2.4.1"
+  }
+}
